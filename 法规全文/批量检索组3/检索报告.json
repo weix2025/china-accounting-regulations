@@ -1,0 +1,61 @@
+{
+  "batch_name": "批量检索任务组21-30",
+  "description": "财务软件相关法规",
+  "timestamp": "2026-02-23 09:36:48",
+  "total_tasks": 10,
+  "success_count": 10,
+  "error_count": 0,
+  "total_elapsed_seconds": 0.89,
+  "results": [
+    {
+      "task_id": 26,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务26_财务软件_凭证管理规范.json"
+    },
+    {
+      "task_id": 25,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务25_财务软件_会计科目设置规范.json"
+    },
+    {
+      "task_id": 22,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务22_财务软件_企业会计准则第11-20号应用.json"
+    },
+    {
+      "task_id": 27,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务27_财务软件_账簿管理规范.json"
+    },
+    {
+      "task_id": 30,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务30_财务软件_税务申报规范.json"
+    },
+    {
+      "task_id": 29,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务29_财务软件_期末处理规范.json"
+    },
+    {
+      "task_id": 28,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务28_财务软件_报表编制规范.json"
+    },
+    {
+      "task_id": 21,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务21_财务软件_企业会计准则第1-10号应用.json"
+    },
+    {
+      "task_id": 24,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务24_财务软件_企业会计准则第31-42号应用.json"
+    },
+    {
+      "task_id": 23,
+      "status": "success",
+      "file": "/root/.openclaw/workspace/法规全文/批量检索组3/任务23_财务软件_企业会计准则第21-30号应用.json"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_id": 28,
+  "query": "财务软件 报表编制规范",
+  "timestamp": "2026-02-23 09:36:48",
+  "elapsed_seconds": 0.86,
+  "result": {
+    "error": "HTTPSConnectionPool(host='api.geekai.com', port=443): Max retries exceeded with url: /v1/search (Caused by SSLError(SSLError(1, '[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1000)')))"
+  }
+}
